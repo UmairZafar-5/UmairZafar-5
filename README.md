@@ -1,16 +1,29 @@
-## Hi there 👋
+# 👋 Hi, I'm Umair Zafar
 
-<!--
-**UmairZafar-5/UmairZafar-5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Senior .NET Developer | C# | ASP.NET Core | Angular | SQL Server**
 
-Here are some ideas to get you started:
+🌟 Passionate about building scalable apps  
+💼 4+ years experience  
+🔥 Strong in backend architecture & clean code  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠 Tech Stack
+- **C#**, .NET Core, Web API, MVC  
+- **JavaScript**, Angular, React  
+- **SQL Server**, Stored Procedures, Optimization  
+- **Entity Framework**, Dapper  
+- Git, CI/CD
+
+---
+
+## 📫 Contact
+📧 eng.umairzafar@gmail.com
+
+🔗 LinkedIn: https://www.linkedin.com/in/umairzafar-aspdotnet/
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hxxmz/hxxmz/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hxxmz/hxxmz/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/hxxmz/hxxmz/output/github-contribution-grid-snake.svg">
+</picture>
